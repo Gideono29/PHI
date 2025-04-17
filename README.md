@@ -1,4 +1,4 @@
-# PHI
+# Public Health Disease Surveillance and Architecture Development Project
 Step 1: A configured virtual machine (VM) environment that simulates a healthcare network infrastructure. This involves configuring a virtual operating system for the following entities:
 
 Aspirus Hospital
