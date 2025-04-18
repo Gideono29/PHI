@@ -36,7 +36,22 @@ Each virtual machine will act as a standalone system representing one of the hea
 
 Step 2: Setting up and securing OpenEMR
 -
+Install and configure OpenEMR, an open-source electronic health record (EHR) system for the four virtual hospitals. OpenEMR supports patient scheduling, billing, clinical decision support, and a customizable patient portal, making it a flexible and widely used tool for healthcare management.
 
+ -Update and upgrade the Ubuntu Server
+ - Install necessary packages
+ - Create a MySQL database and user for OpenEMR
+ - Download and extract OpenEMR
+ - Configure Apache
+ - Complete OpenEMR installation via the web-based setup
+ - Enable automatic security updates
+ - Configure a firewall
+ - Securing Apache
+ - Restart Apache
+ - Use strong passwords
+ - Configure regular backups
+ - Keep OpenEMR up to date
+ 
 
 ![train_test_accuracy.png](https://github.com/Gideono29/PHI/blob/36c6012c97788052c89815750f7815a7ba0e477c/Aspirus.png)
 ![train_test_accuracy.png](https://github.com/Gideono29/PHI/blob/18e4efd9a7fa74bc9c7d132efe0ed592c812fca7/Baraga.png)
