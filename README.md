@@ -1,9 +1,14 @@
 # Public Health Disease Surveillance and Architecture Development Project
 This involves five different steps
+
 Step 1: Virtual Machine Configuration/Testing
+
 Step 2: Installation, Configuration, and Security of OpenEMR 
+
 Step 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospital EHRs to Simulate Disease Outbreak
+
 Step 4: Installation and Configuration of Hapi-FHIR Server
+
 Step 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
 
 Step 1: A configured virtual machine (VM) environment that simulates a healthcare network infrastructure. This involves configuring a virtual operating system for the following entities:
