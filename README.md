@@ -62,10 +62,10 @@ Install and configure OpenEMR, an open-source electronic health record (EHR) sys
 Part 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospital EHRs to Simulate Disease Outbreak
 -
 
-The step involves using Synthea, an open-source tool, to generate synthetic patient data for simulating a disease outbreak, such as COVID-19, across a geographic region. This data helps model and analyze public health scenarios without violating real patient privacy.
+The step involves using Synthea to generate synthetic patient data for simulating a disease outbreak such as COVID-19 across a geographic region. This data helps model and analyze public health scenarios without violating real patient privacy.
 -
  - Install Synthea
- - Download the latest version of Synthea from the official Github repository.
+ - Download the latest version of Synthea from the official GitHub repository.
  - Create a directory for Synthea and move the JAR file
  - Generate disease simulation message
  
