@@ -55,3 +55,11 @@ Generate COVID-19-specific data
 Simulate a disease outbreak in a Geographic region
 
 Analyze the output
+
+![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Aspirus_json.png)
+
+![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Baraga_json.png)
+
+![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Marquette_json.png)
+
+![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Portage_json.png)
