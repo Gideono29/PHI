@@ -1,5 +1,7 @@
 # Public Health Disease Surveillance and Architecture Development Project
-This involves five different steps
+This type of project focuses on designing and implementing a system that monitors and responds to the COVID-19 outbreak using real-time data collection, integration, analysis, and visualization. It involves combining various data sources and technology tools to build a digital health surveillance architecture that supports timely public health decision-making.
+
+This involves five different steps including:
 
 Part 1: Virtual Machine Configuration/Testing
 
