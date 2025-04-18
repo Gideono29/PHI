@@ -87,4 +87,26 @@ In public health, HAPI-FHIR supports early disease outbreak detection, rapid dat
 -open HAPI FHIR portal (http://localhost:8090/
 ![](https://github.com/Gideono29/PHI/blob/476d1d4725356a57227bb6dd73a661f8f315afe0/default_web_UI.png)
 
+Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
+
+This section explores how HAPI-FHIR supports the acceptance and processing of HL7 FHIR messages for public health surveillance. HAPI-FHIR enables integration with various EHR systems, allowing public health agencies to retrieve and monitor critical patient data efficiently.
+
+-Installing POSTMAN
+
+-Login to HAPI-FHIR Virtual Machine
+
+-CRUD Operations using HAPI FHIR REST API
+
+-Swagger UI
+
+-Create a New Practitioner
+
+-Search for Practitioner instances
+
+-Search with Conditions
+
+-HAPI FHIR Dashboard
+
+-Python REST API
+
 
