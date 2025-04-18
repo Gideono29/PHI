@@ -64,10 +64,11 @@ Part 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospit
 
 The step involves using Synthea, an open-source tool, to generate synthetic patient data for simulating a disease outbreak, such as COVID-19, across a geographic region. This data helps model and analyze public health scenarios without violating real patient privacy.
 -
- -Install Synthea
- -Download the latest version of Synthea from the official Github repository.
- -Create a directory for Synthea and move the JAR file
- -Generate disease simulation message
+ - Install Synthea
+ - Download the latest version of Synthea from the official Github repository.
+ - Create a directory for Synthea and move the JAR file
+ - Generate disease simulation message
+ 
 
 
 ![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Aspirus_json.png)
