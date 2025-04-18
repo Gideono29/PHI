@@ -71,7 +71,7 @@ The step involves using Synthea to generate synthetic patient data for simulatin
  - Generate disease simulation message
  
 
-
+![](https://github.com/Gideono29/Population-Health-Informatics/blob/e00ff382c62fd79105ad307ea0c1c507109367dd/Step3_screenshot.png)
 ![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Aspirus_json.png)
 
 ![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Baraga_json.png)
