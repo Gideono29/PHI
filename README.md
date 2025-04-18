@@ -84,23 +84,15 @@ Part 4: Installation and Configuration of Hapi-FHIR Server
 
 In public health, HAPI-FHIR supports early disease outbreak detection, rapid data sharing, and coordinated responses, helping to identify trends and shape evidence-based policies for better community health outcomes
 -
--Check if the Docker Daemon is running
-
--Start and stop Docker Daemon
-
--List Containers
-
--List Docker Container Images 
-
--HAPI FHIR Installation
-
--Fetch the Latest HAPI FHIR Image
-
--Configuration via the overridden application.yaml file
-
--Deploy Docker Container
-
--open HAPI FHIR portal (http://localhost:8090/
+- Check if the Docker Daemon is running
+- Start and stop Docker Daemon
+- List Containers
+- List Docker Container Images 
+- HAPI FHIR Installation
+- Fetch the Latest HAPI FHIR Image
+- Configuration via the overridden application.yaml file
+- Deploy Docker Container
+- Open HAPI FHIR portal (http://localhost:8090/
 ![](https://github.com/Gideono29/PHI/blob/476d1d4725356a57227bb6dd73a661f8f315afe0/default_web_UI.png)
 
 Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
