@@ -85,4 +85,6 @@ In public health, HAPI-FHIR supports early disease outbreak detection, rapid dat
 -Deploy Docker Container
 
 -open HAPI FHIR portal (http://localhost:8090/
+![](https://github.com/Gideono29/PHI/blob/476d1d4725356a57227bb6dd73a661f8f315afe0/default_web_UI.png)
+
 
