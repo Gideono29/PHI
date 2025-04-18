@@ -108,23 +108,15 @@ Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
 
 This section explores how HAPI-FHIR supports the acceptance and processing of HL7 FHIR messages for public health surveillance. HAPI-FHIR enables integration with various EHR systems, allowing public health agencies to retrieve and monitor critical patient data efficiently.
 -
--Installing POSTMAN
-
--Login to HAPI-FHIR Virtual Machine
-
--CRUD Operations using HAPI FHIR REST API
-
--Swagger UI
-
--Create a New Practitioner
-
--Search for Practitioner instances
-
--Search with Conditions
-
--HAPI FHIR Dashboard
-
--Python REST API
+- Installing POSTMAN
+- Log in to HAPI-FHIR Virtual Machine
+- CRUD Operations using HAPI FHIR REST API
+- Swagger UI
+- Create a New Practitioner
+- Search for Practitioner instances
+- Search with Conditions
+- HAPI FHIR Dashboard
+- Python REST API
 
 ![](https://github.com/Gideono29/PHI/blob/527b47c4facb9fd2f69524330e826f9a5e31e1f7/response.copy.png)
 
