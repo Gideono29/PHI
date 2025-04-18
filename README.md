@@ -11,7 +11,6 @@ Part 4: Installation and Configuration of Hapi-FHIR Server
 
 Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
 
-(https://github.com/Gideono29/PHI/blob/f5d3904928ff7ab27eb048e19f18c9461c7844c4/AD_part_3.pdf)
 
 Part 1: Virtual Machine Configuration and Testing 
 -
