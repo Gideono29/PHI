@@ -17,6 +17,7 @@ Part 1: Virtual Machine Configuration and Testing
 -
 
 A configured virtual machine (VM) environment that simulates a healthcare network infrastructure. This involves configuring a virtual operating system for the following hospital
+-
 - Set up and join VPN
 - Connect to the Cluster
 - Navigate the Cluster
@@ -37,6 +38,7 @@ Each virtual machine will act as a standalone system representing one of the hea
 Step 2: Setting up and securing OpenEMR
 -
 Install and configure OpenEMR, an open-source electronic health record (EHR) system for the four virtual hospitals. OpenEMR supports patient scheduling, billing, clinical decision support, and a customizable patient portal, making it a flexible and widely used tool for healthcare management.
+-
 
  -Update and upgrade the Ubuntu Server
  - Install necessary packages
@@ -61,18 +63,12 @@ Part 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospit
 -
 
 The step involves using Synthea, an open-source tool, to generate synthetic patient data for simulating a disease outbreak, such as COVID-19, across a geographic region. This data helps model and analyze public health scenarios without violating real patient privacy.
+-
+ -Install Synthea
+ -Download the latest version of Synthea from the official Github repository.
+ -Create a directory for Synthea and move the JAR file
+ -Generate disease simulation message
 
-Understand synthea
-
-Set up the installation environment
-
-Generate basic Patient data
-
-Generate COVID-19-specific data
-
-Simulate a disease outbreak in a Geographic region
-
-Analyze the output
 
 ![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Aspirus_json.png)
 
@@ -86,7 +82,7 @@ Part 4: Installation and Configuration of Hapi-FHIR Server
 -
 
 In public health, HAPI-FHIR supports early disease outbreak detection, rapid data sharing, and coordinated responses, helping to identify trends and shape evidence-based policies for better community health outcomes
-
+-
 -Check if the Docker Daemon is running
 
 -Start and stop Docker Daemon
@@ -110,7 +106,7 @@ Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
 -
 
 This section explores how HAPI-FHIR supports the acceptance and processing of HL7 FHIR messages for public health surveillance. HAPI-FHIR enables integration with various EHR systems, allowing public health agencies to retrieve and monitor critical patient data efficiently.
-
+-
 -Installing POSTMAN
 
 -Login to HAPI-FHIR Virtual Machine
