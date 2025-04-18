@@ -116,6 +116,8 @@ This section explores how HAPI-FHIR supports the acceptance and processing of HL
 
 Part 6: Aggregation and Visualization of Data for Disease Outbreak Surveillance
 -  
-  - Data Aggregation
-  - Data Visualization
+  
+  - Data Aggregation and Standardization
+     -
+  - Data Visualization using Interractive dashboard
 
