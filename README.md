@@ -14,6 +14,7 @@ Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
 
 
 Part 1: Virtual Machine Configuration and Testing 
+-
 
 A configured virtual machine (VM) environment that simulates a healthcare network infrastructure. This involves configuring a virtual operating system for the following entities:
 
@@ -34,6 +35,7 @@ Each virtual machine will act as a standalone system representing one of the hea
 
 
 Step 2: Setting up and securing OpenEMR
+-
 
 
 ![train_test_accuracy.png](https://github.com/Gideono29/PHI/blob/36c6012c97788052c89815750f7815a7ba0e477c/Aspirus.png)
@@ -41,6 +43,7 @@ Step 2: Setting up and securing OpenEMR
 
 
 Part 3: Generation of Synthea Patient and Syndromic Surveillance Data for Hospital EHRs to Simulate Disease Outbreak
+-
 
 The step involves using Synthea, an open-source tool, to generate synthetic patient data for simulating a disease outbreak, such as COVID-19, across a geographic region. This data helps model and analyze public health scenarios without violating real patient privacy.
 
@@ -65,6 +68,7 @@ Analyze the output
 ![](https://github.com/Gideono29/PHI/blob/2bba0894671907083dd8f79343c87100b54a7d03/Portage_json.png)
 
 Part 4: Installation and Configuration of Hapi-FHIR Server
+-
 
 In public health, HAPI-FHIR supports early disease outbreak detection, rapid data sharing, and coordinated responses, helping to identify trends and shape evidence-based policies for better community health outcomes
 
@@ -88,6 +92,7 @@ In public health, HAPI-FHIR supports early disease outbreak detection, rapid dat
 ![](https://github.com/Gideono29/PHI/blob/476d1d4725356a57227bb6dd73a661f8f315afe0/default_web_UI.png)
 
 Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
+-
 
 This section explores how HAPI-FHIR supports the acceptance and processing of HL7 FHIR messages for public health surveillance. HAPI-FHIR enables integration with various EHR systems, allowing public health agencies to retrieve and monitor critical patient data efficiently.
 
@@ -110,4 +115,10 @@ This section explores how HAPI-FHIR supports the acceptance and processing of HL
 -Python REST API
 
 ![](https://github.com/Gideono29/PHI/blob/527b47c4facb9fd2f69524330e826f9a5e31e1f7/response.copy.png)
+
+
+Part 6: Aggregation and Visualization of Data for Disease Outbreak Surveillance
+-  
+  - Data Aggregation
+  - Data Visualization
 
