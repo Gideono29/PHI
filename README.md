@@ -16,18 +16,18 @@ Part 5: Interoperability- FHIR Data Exchange with HAPI-FHIR
 Part 1: Virtual Machine Configuration and Testing 
 -
 
-A configured virtual machine (VM) environment that simulates a healthcare network infrastructure. This involves configuring a virtual operating system for the following entities:
-
-Aspirus Hospital
-
-Portage Health Hospital
-
-Baraga County Memorial Hospital (BCMH)
-
-Marquette General Hospital (MGH)
-
-Upper Peninsula Health Information Exchange (UPHIE)
-
+A configured virtual machine (VM) environment that simulates a healthcare network infrastructure. This involves configuring a virtual operating system for the following hospital
+- Set up and join VPN
+- Connect to the Cluster
+- Navigate the Cluster
+- Create the VM for the following entities
+  -
+  - Aspirus
+  - Portage Health Hospital
+  - Baraga County Memorial Hospital (BCMH)
+  - Marguette General Hospital
+  - Upper Peninsula Information Exchange (UPHIE)
+  
 Each virtual machine will act as a standalone system representing one of the healthcare organizations. This environment enables safe testing of network architectures and system developments, helping to identify and resolve issues before implementation in live or cloud-based systems.
 
 ![](https://github.com/Gideono29/PHI/blob/8add8ec8ff4edaf039cef3dd80f24f47dfa149fb/step1_screenshot%20of%20VMs.png)
