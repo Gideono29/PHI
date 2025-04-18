@@ -109,4 +109,5 @@ This section explores how HAPI-FHIR supports the acceptance and processing of HL
 
 -Python REST API
 
+![](https://github.com/Gideono29/PHI/blob/527b47c4facb9fd2f69524330e826f9a5e31e1f7/response.copy.png)
 
